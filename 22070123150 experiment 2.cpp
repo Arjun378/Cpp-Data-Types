@@ -10,10 +10,10 @@ long l = 4513654654646.4554;
 double doub = 44566.4644644348964;
 cout<<i+fl<<endl;
 cout<<l - doub<<endl;
-cout<<"The size of int is "<<sizeof(i)<<" bytes"<<endl;
-cout<<"The size of int is "<<sizeof(fl)<<" bytes"<<endl;
-cout<<"The size of int is "<<sizeof(f)<<" bytes"<<endl;
-cout<<"The size of int is "<<sizeof(l)<<" bytes"<<endl;
-cout<<"The size of int is "<<sizeof(doub)<<" bytes"<<endl;
+cout<<"The size of i is "<<sizeof(i)<<" bytes"<<endl;
+cout<<"The size of fl is "<<sizeof(fl)<<" bytes"<<endl;
+cout<<"The size of f is "<<sizeof(f)<<" bytes"<<endl;
+cout<<"The size of l is "<<sizeof(l)<<" bytes"<<endl;
+cout<<"The size of doub is "<<sizeof(doub)<<" bytes"<<endl;
 return 0;
 }
